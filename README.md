@@ -1,4 +1,4 @@
-# unnormalized laplacian score
+# Un-normalized laplacian score
 
 Paper can be found <a href="https://papers.nips.cc/paper/2909-laplacian-score-for-feature-selection.pdf">here</a>
 <br/>
